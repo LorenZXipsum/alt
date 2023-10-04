@@ -61,7 +61,7 @@ function checkResponse(res){
 
 function PreventLoad(){
     key = "kLPDnheujZMs7WGXRSaTvF6XgKuTGdr1lA5xCq7y8KIP1E3CwJH8hH4OtAEFcgzO";
-    campaign = "19466";
+    campaign = "19617";
     strictness = "0";
     getIP(key);
 }
